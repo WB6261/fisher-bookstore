@@ -2,7 +2,7 @@ using System;
 
 namespace Fisher.Bookstore.Models
 {
-    public class BookAuthor
+    public class Author
     {
         public int AuthorId { get; set; }
 

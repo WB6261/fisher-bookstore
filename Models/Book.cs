@@ -8,7 +8,7 @@ namespace Fisher.Bookstore.Models
 
         public string Title {get; set; }
 
-        public BookAuthor Author {get; set; }
+        public Author Author {get; set; }
 
         public void SellBook()
         {
